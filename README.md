@@ -1,2 +1,3 @@
 # practice-repository
-< H1>  Danielle Gilfoyle </ H1> 
+Danielle Gilfoyle
+contact me at: danielle.gilfoyle1@gmail.com
